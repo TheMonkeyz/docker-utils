@@ -7,6 +7,7 @@ RUN apt-get update && \
                inetutils-telnet \
                iputils-ping \
                mtr \
+               mysql-client \
                traceroute \
                vim \
                wget && \
