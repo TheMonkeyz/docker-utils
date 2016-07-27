@@ -8,6 +8,7 @@ RUN apt-get update && \
                iputils-ping \
                mtr \
                mysql-client \
+               postgresql \
                traceroute \
                vim \
                wget && \
